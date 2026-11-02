@@ -2,22 +2,22 @@
 7179806441608,swi815-bphg,MERGE,DemoniaCult Swing 815,41040610656392,MERGE,SWI815/BPHG 36 (US-6),continue,,**checken,,
 7179806638216,swi815-bvel,MERGE,DemoniaCult Swing 815,41040610984072,MERGE,SWI815/BVEL 36 (US-6),continue,,**checken,,
 7179827642504,glory501-c-b,MERGE,Fabulicious Glory 501,41048715853960,MERGE,GLORY501/C/B 35 (US-5),deny,,**checken,,
-7179798085768,regd56-bp,MERGE,DemoniaCult Renegade 56,41040463921288,MERGE,REGD56/BP 36 (US-6),continue,,*checken,,
-7180104663176,ash57-bpvl,MERGE,DemoniaCult Ashes 57,41040006643848,MERGE,ASH57/BPVL 36 (US-6),continue,,*checken,,
-7199339970696,ado1018msht-b-ms-smk,MERGE,Pleaser Adore 1018MSHT,41048356356232,MERGE,ADO1018MSHT/B-MS/SMK 35 (US-5),continue,,*checken,,
-7208488763528,sky308whg-c-c-bpg,MERGE,Pleaser Sky 308WHG,49755210449243,MERGE,SKY308WHG/C/C-BPG 35 (US-5),deny,,*checken,,
-7213694713992,ado1020-rybl-m,MERGE,Pleaser Adore 1020,41048361762952,MERGE,ADO1020/RYBL/M 35 (US-5),deny,,*checken,,
+7179798085768,regd56-bp,MERGE,DemoniaCult Renegade 56,41040463921288,MERGE,REGD56/BP 36 (US-6),continue,,*checken,"Pleaserclearance, Clearance",MERGE
+7180104663176,ash57-bpvl,MERGE,DemoniaCult Ashes 57,41040006643848,MERGE,ASH57/BPVL 36 (US-6),continue,,*checken,"Pleaserclearance, Clearance",MERGE
+7199339970696,ado1018msht-b-ms-smk,MERGE,Pleaser Adore 1018MSHT,41048356356232,MERGE,ADO1018MSHT/B-MS/SMK 35 (US-5),continue,,*checken,"Pleaserclearance, Clearance",MERGE
+7208488763528,sky308whg-c-c-bpg,MERGE,Pleaser Sky 308WHG,49755210449243,MERGE,SKY308WHG/C/C-BPG 35 (US-5),deny,,*checken,"Pleaserclearance, Clearance",MERGE
+7213694713992,ado1020-rybl-m,MERGE,Pleaser Adore 1020,41048361762952,MERGE,ADO1020/RYBL/M 35 (US-5),deny,,*checken,"Pleaserclearance, Clearance",MERGE
 7213694713992,ado1020-rybl-m,MERGE,Pleaser Adore 1020,41048361795720,MERGE,ADO1020/RYBL/M 36 (US-6),deny,,,,
-7332183867528,pleaser-ado709ht-bphg-hgt,MERGE,Pleaser Adore 709HT,41098423140488,MERGE,ADO709HT/BPHG/HGT 35 (US-5),continue,,*checken,,
-8437120631131,demoniacult-cub57-bpt-rpvc,MERGE,DemoniaCult Cubby 57,46765258375515,MERGE,CUB57/BPT-RPVC 36 (US-6),deny,,*checken,,
-8449697513819,pleaser-spec1017rsf-c-s-csch,MERGE,Pleaser Spectator 1017RSF,46792286077275,MERGE,SPEC1017RSF/C-S/CSCH 36 (US-6),deny,,*checken,,
+7332183867528,pleaser-ado709ht-bphg-hgt,MERGE,Pleaser Adore 709HT,41098423140488,MERGE,ADO709HT/BPHG/HGT 35 (US-5),continue,,*checken,"Pleaserclearance, Clearance",MERGE
+8437120631131,demoniacult-cub57-bpt-rpvc,MERGE,DemoniaCult Cubby 57,46765258375515,MERGE,CUB57/BPT-RPVC 36 (US-6),deny,,*checken,"Pleaserclearance, Clearance",MERGE
+8449697513819,pleaser-spec1017rsf-c-s-csch,MERGE,Pleaser Spectator 1017RSF,46792286077275,MERGE,SPEC1017RSF/C-S/CSCH 36 (US-6),deny,,*checken,"Pleaserclearance, Clearance",MERGE
 8449697513819,pleaser-spec1017rsf-c-s-csch,MERGE,Pleaser Spectator 1017RSF,46792286208347,MERGE,SPEC1017RSF/C-S/CSCH 40 (US-10),deny,,,,
-8516751130971,pleaser-ado1017rsf-c-mc-fsch,MERGE,Pleaser Adore 1017RSF,46971817820507,MERGE,ADO1017RSF/C-MC/FSCH 35 (US-5),continue,,*checken,,
+8516751130971,pleaser-ado1017rsf-c-mc-fsch,MERGE,Pleaser Adore 1017RSF,46971817820507,MERGE,ADO1017RSF/C-MC/FSCH 35 (US-5),continue,,*checken,"Pleaserclearance, Clearance",MERGE
 8516751130971,pleaser-ado1017rsf-c-mc-fsch,MERGE,Pleaser Adore 1017RSF,46971817853275,MERGE,ADO1017RSF/C-MC/FSCH 36 (US-6),deny,,,,
-8588302057819,demoniacult-whi118-bvs,MERGE,DemoniaCult Whimsy 118,47168936640859,MERGE,WHI118/BVS 36 (US-6),deny,,*checken,,
-9131660607835,demoniacult-dai11-bvl,MERGE,DemoniaCult Daisy 11,48117112078683,MERGE,DAI11/BVL 36 (US-6),deny,,*checken,,
-9670250529115,demoniacult-flip16-bvl,MERGE,DemoniaCult Flip 16,49800639611227,MERGE,FLIP16/BVL 36 (US-6),deny,,*checken,,
-9671472546139,funtasma-pimp02-bn-fur,MERGE,Funtasma Pimp 02,49805619429723,MERGE,PIMP02/BN/FUR S (40/42),continue,,*checken,,
+8588302057819,demoniacult-whi118-bvs,MERGE,DemoniaCult Whimsy 118,47168936640859,MERGE,WHI118/BVS 36 (US-6),deny,,*checken,"Pleaserclearance, Clearance",MERGE
+9131660607835,demoniacult-dai11-bvl,MERGE,DemoniaCult Daisy 11,48117112078683,MERGE,DAI11/BVL 36 (US-6),deny,,*checken,"Pleaserclearance, Clearance",MERGE
+9670250529115,demoniacult-flip16-bvl,MERGE,DemoniaCult Flip 16,49800639611227,MERGE,FLIP16/BVL 36 (US-6),deny,,*checken,"Pleaserclearance, Clearance",MERGE
+9671472546139,funtasma-pimp02-bn-fur,MERGE,Funtasma Pimp 02,49805619429723,MERGE,PIMP02/BN/FUR S (40/42),continue,,*checken,"Pleaserclearance, Clearance",MERGE
 10103388111195,demoniacult-ash120-bvl-gn,MERGE,DemoniaCult Ashes 120,51374961983835,MERGE,ASH120/BVL-GN 36 (US-6),continue,,**checken,,
 7179807817864,swi815c-smktpu,MERGE,DemoniaCult Swing 815C,41040613343368,MERGE,SWI815C/SMKTPU 42/43 (US-12),deny,,**checken,,MERGE
 7179818270856,grad255-bvl-ngn,MERGE,DemoniaCult Gravedigger 255,41040385671304,MERGE,GRAD255/BVL-NGN 39 (US-7) UNISEX,deny,,*checken,,MERGE
