@@ -1,5 +1,1 @@
 ﻿ID,Handle,Command,Title,Variant ID,Variant Command,Variant SKU,Variant Inventory Policy,Metafield: custom.back_in_stock_date [date],Metafield: custom.back_in_stock [single_line_text_field],Tags,Tags Command,Metafield: custom.clearance_sale [boolean]
-7217782653064,flam1020rs-srs-b,MERGE,Pleaser Flamingo 1020RS,41048657723528,MERGE,FLAM1020RS/SRS/B 36 (US-6),deny,,*checken,,MERGE,true
-7234731507848,craze1040-bp-m,MERGE,Pleaser Craze 1040,41048908988552,MERGE,CRAZE1040/BP/M 39 (US-9),deny,,*checken,,MERGE,true
-8411216118107,pleaser-ado1040ig-llg-m,MERGE,Pleaser Adore 1040-IG,46715030733147,MERGE,ADO1040IG/LLG/M 40 (US-10),deny,,*checken,,MERGE,true
-8844357402971,demoniacult-vik128-wvl,MERGE,DemoniaCult Vivika 128,47780738400603,MERGE,VIK128/WVL 37 (US-7),deny,,*checken,,MERGE,true
